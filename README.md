@@ -102,20 +102,16 @@ SECRET=your_cloudinary_secret
 3. Install Dependencies
 ```
 bash
-Copy
-Edit
 npm install
 ```
 
-5. Run the Application
+4. Run the Application
 ```
 bash
-Copy
-Edit
 nodemon app.js
 ```
 
-7. Access the App
+5. Access the App
 Open http://localhost:8080 in your browser.
 
 ✍️ Author
