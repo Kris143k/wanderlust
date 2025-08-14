@@ -112,7 +112,9 @@ nodemon app.js
 ```
 
 5. Access the App
+```
 Open http://localhost:8080 in your browser.
+```
 
 ✍️ Author
 @kris143k
